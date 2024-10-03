@@ -1,0 +1,11 @@
+"use strict";
+let firstName = "Majba";
+let id = 1;
+let isAdmin = true;
+let x = undefined;
+let y = null;
+let d;
+d = 23;
+let friends = ['a', 'b'];
+let roll = [2, 3];
+let coordinates = [1, 2];
