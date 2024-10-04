@@ -1,4 +1,4 @@
-{
+{{
     // Type Assertion
     let anything : any;
 
@@ -17,6 +17,8 @@
     const result1 = kgToGm(1000) as number;
     const result2 = kgToGm("1000") as string;
     console.log(result2)
+
+    }
 
     type CustomError = {
         message: string
